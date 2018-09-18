@@ -13,6 +13,7 @@
 
 # Ignore .idea/
 .idea/*
+app/controllers/.idea/*
 
 # Ignore all logfiles and tempfiles.
 /log/*
